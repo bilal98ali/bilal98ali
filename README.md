@@ -9,15 +9,15 @@
 
 </details>
 
-<br />
-
 ### Connect with me: 
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
-### Languages: <img align="right" alt="Java" width="30px" src="https://codehustler.org/wp-content/uploads/2012/12/java_logo.png"/>
+### Languages: 
+
+<img align="left" alt="Java" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg"/>
 
 <br />
 
