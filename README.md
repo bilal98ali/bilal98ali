@@ -8,12 +8,10 @@
 
 <br />
 
-### Languages:
-
-<img align="left" alt="Java" width="26px" src="https://codehustler.org/wp-content/uploads/2012/12/java_logo.png"/>
+### Languages: <img align="left" alt="Java" width="22px" src="https://codehustler.org/wp-content/uploads/2012/12/java_logo.png"/>
 
 <br />
----
+<br/>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
