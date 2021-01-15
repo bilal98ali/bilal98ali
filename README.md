@@ -1,6 +1,5 @@
 ### Hi there, I'm Bilal. 👋
-
-## I'm currently a student studying Computer Science at Florida International University—and, an aspiring software engineer.
+### An undergrad student studying computer science at Florida International University.
 
 <details>
   <summary>:zap: GitHub Stats</summary>
