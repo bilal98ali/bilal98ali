@@ -1,4 +1,4 @@
-### Hi there, I'm Bilal. 👋
+## Hi there, I'm Bilal. 👋
 ### An undergrad student studying computer science at Florida International University.
 
 <details>
