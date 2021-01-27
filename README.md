@@ -8,20 +8,20 @@
 
 </details>
 
-### Connect with me: 
+<!-- ### Connect with me: 
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<!-- [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-<br />
+<!-- <br />
 
-### Languages: 
+<!-- ### Languages: 
 
-<img align="left" alt="Java" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg"/>
+<!-- <img align="left" alt="Java" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg"/>
 
-<br />
+<!-- <br />
 
-[website]: 
+<!-- [website]: 
 [twitter]:
 [youtube]:
 [instagram]:
-[linkedin]: https://linkedin.com/in/bilal98ali
+[linkedin]: https://linkedin.com/in/bilal98ali 
