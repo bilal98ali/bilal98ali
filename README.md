@@ -1,5 +1,5 @@
 ## Hi there, I'm Bilal. 👋
-### An undergrad student studying computer science at Florida International University.
+### An undergrad student majoring in CS at Florida International University.
 
 <details>
   <summary>:zap: GitHub Stats</summary>
@@ -11,12 +11,6 @@
 <!-- ### Connect with me: 
 
 <!-- [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<!-- <br />
-
-<!-- ### Languages: 
-
-<!-- <img align="left" alt="Java" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg"/>
 
 <!-- <br />
 
