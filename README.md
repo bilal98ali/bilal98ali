@@ -1,5 +1,5 @@
-## Hi there, I'm Bilal. 👋
-### An undergrad student majoring in CS at Florida International University.
+## Welcome, I'm Bilal. 👋
+### An IT undergrad @ Florida International University.
 
 <details>
   <summary>:zap: GitHub Stats</summary>
